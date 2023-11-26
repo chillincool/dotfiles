@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/Users/chris/.oh-my-zsh/custom'
+let g:netrw_dirhist_2='/Users/chris/.cache/p10k-chris'
+let g:netrw_dirhist_1='/Users/chris/.cache'
+let g:netrw_dirhist_0='/Users/chris/.cache/nvim'
+let g:netrw_dirhist_9='/Users/chris/.cache/nvim/nightfox'
+let g:netrw_dirhist_8='/Users/chris/.cache/nvim'
+let g:netrw_dirhist_7='/Users/chris/.cache'
+let g:netrw_dirhist_6='/Users/chris/.local/share/nvim/lazy/nvim-tree.lua'
+let g:netrw_dirhist_5='/Users/chris/.config/nvim/lua/conf'
+let g:netrw_dirhist_4='/Users/chris/.config/nvim/lua'
